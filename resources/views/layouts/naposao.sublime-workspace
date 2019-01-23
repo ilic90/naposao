@@ -1,0 +1,1590 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"compan",
+				"company_website"
+			],
+			[
+				"applica",
+				"applications"
+			],
+			[
+				"year",
+				"year_from"
+			],
+			[
+				"to",
+				"toJson"
+			],
+			[
+				"cate",
+				"categories"
+			],
+			[
+				"compa",
+				"company_name"
+			],
+			[
+				"con",
+				"conversation"
+			],
+			[
+				"co",
+				"conversation"
+			],
+			[
+				"about",
+				"about_us"
+			],
+			[
+				"a",
+				"about_us"
+			],
+			[
+				"strc",
+				"strcmp"
+			],
+			[
+				"remin",
+				"RemindableInterface"
+			],
+			[
+				"User",
+				"UserInterface"
+			],
+			[
+				"out_",
+				"office_out_country"
+			],
+			[
+				"photo",
+				"photoName"
+			],
+			[
+				"for",
+				"foreign"
+			],
+			[
+				"face",
+				"facebook_details"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "header.blade.php",
+			"settings":
+			{
+				"buffer_size": 4077,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/naposao/.env",
+			"settings":
+			{
+				"buffer_size": 559,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/naposao/resources/views/company/applications.blade.php",
+			"settings":
+			{
+				"buffer_size": 1097,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/naposao/resources/views/user/conversation.blade.php",
+			"settings":
+			{
+				"buffer_size": 3185,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/naposao/resources/views/ad/application.blade.php",
+			"settings":
+			{
+				"buffer_size": 1058,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/naposao/resources/views/company/step-2.blade.php",
+			"settings":
+			{
+				"buffer_size": 1282,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/naposao/resources/views/ad/conversation.blade.php",
+			"settings":
+			{
+				"buffer_size": 3149,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/naposao/resources/views/ad/allAds.blade.php",
+			"settings":
+			{
+				"buffer_size": 4367,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/naposao/app/File.php",
+			"settings":
+			{
+				"buffer_size": 180,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/naposao/app/Message.php",
+			"settings":
+			{
+				"buffer_size": 479,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/naposao/routes/web.php",
+			"settings":
+			{
+				"buffer_size": 8076,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/naposao/app/Http/Controllers/UserController.php",
+			"settings":
+			{
+				"buffer_size": 9091,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/naposao/app/Http/Controllers/JobController.php",
+			"settings":
+			{
+				"buffer_size": 5731,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/naposao/app/Http/Controllers/HomeController.php",
+			"settings":
+			{
+				"buffer_size": 740,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/naposao/app/Http/Controllers/AdminController.php",
+			"settings":
+			{
+				"buffer_size": 1859,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/naposao/app/Http/Controllers/CompanyController.php",
+			"settings":
+			{
+				"buffer_size": 8273,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/naposao/resources/views/ad/ad.blade.php",
+			"settings":
+			{
+				"buffer_size": 5401,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/naposao/app/User.php",
+			"settings":
+			{
+				"buffer_size": 1001,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 173.0,
+		"last_filter": "packageinsta",
+		"selected_items":
+		[
+			[
+				"packageinsta",
+				"Package Control: Install Package"
+			],
+			[
+				"package control all",
+				"Package Control: Install Package"
+			],
+			[
+				"package contro",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Add Channel"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/naposao",
+		"/C/xampp/htdocs/naposao/app",
+		"/C/xampp/htdocs/naposao/app/Http",
+		"/C/xampp/htdocs/naposao/app/Http/Controllers",
+		"/C/xampp/htdocs/naposao/public",
+		"/C/xampp/htdocs/naposao/resources",
+		"/C/xampp/htdocs/naposao/resources/assets",
+		"/C/xampp/htdocs/naposao/resources/views",
+		"/C/xampp/htdocs/naposao/resources/views/ad",
+		"/C/xampp/htdocs/naposao/resources/views/admin",
+		"/C/xampp/htdocs/naposao/resources/views/company",
+		"/C/xampp/htdocs/naposao/resources/views/layouts",
+		"/C/xampp/htdocs/naposao/resources/views/user"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/naposao/config/services.php",
+		"/C/xampp/htdocs/naposao/app/User.php",
+		"/C/xampp/htdocs/naposao/resources/views/admin/panel.blade.php",
+		"/C/xampp/htdocs/naposao/resources/views/admin/allAds.blade.php",
+		"/C/xampp/htdocs/naposao/resources/views/company/profile.blade.php",
+		"/C/xampp/htdocs/naposao/resources/views/company/new-job-custom.blade.php",
+		"/C/xampp/htdocs/naposao/resources/views/user/register.blade.php",
+		"/C/xampp/htdocs/naposao/resources/views/company/register.blade.php",
+		"/C/xampp/htdocs/naposao/resources/views/user/favorites.blade.php",
+		"/C/xampp/htdocs/naposao/resources/views/ad/searchResults.blade.php",
+		"/C/xampp/htdocs/naposao/resources/views/user/history.blade.php",
+		"/C/xampp/htdocs/naposao/app/Ad.php",
+		"/C/xampp/htdocs/naposao/app/Http/Controllers/UserController.php",
+		"/C/xampp/htdocs/naposao/config/app.php",
+		"/C/xampp/htdocs/naposao/app/Providers/AppServiceProvider.php",
+		"/C/xampp/htdocs/naposao/resources/views/ad/allAds.blade.php",
+		"/C/xampp/htdocs/naposao/resources/views/company/panel.blade.php",
+		"/C/xampp/htdocs/naposao/resources/views/layouts/master.blade.php",
+		"/C/xampp/htdocs/naposao/resources/views/company/edit.blade.php",
+		"/C/xampp/htdocs/naposao/resources/views/home.blade.php",
+		"/C/xampp/htdocs/naposao/resources/views/ad/ad.blade.php",
+		"/C/xampp/htdocs/naposao/resources/views/company/new-job-standard.blade.php",
+		"/C/xampp/htdocs/naposao/resources/views/user/user_profile.blade.php",
+		"/C/xampp/htdocs/naposao/resources/views/user/messages.blade.php",
+		"/C/xampp/htdocs/naposao/resources/views/company/applications.blade.php",
+		"/C/xampp/htdocs/naposao/resources/views/user/users.blade.php",
+		"/C/xampp/htdocs/naposao/resources/views/user/profile.blade.php",
+		"/C/xampp/htdocs/naposao/app/Category.php",
+		"/C/xampp/htdocs/naposao/app/Application.php",
+		"/C/xampp/htdocs/naposao/app/Http/Controllers/CompanyController.php",
+		"/C/xampp/htdocs/naposao/app/Language.php",
+		"/C/xampp/htdocs/naposao/app/Http/Controllers/HomeController.php",
+		"/C/xampp/htdocs/naposao/app/WorkHistory.php",
+		"/C/xampp/htdocs/naposao/app/Http/Controllers/JobController.php",
+		"/C/xampp/htdocs/naposao/app/Company.php",
+		"/C/xampp/htdocs/naposao/public/css/style.css",
+		"/C/xampp/htdocs/naposao/resources/views/ad/conversation.blade.php",
+		"/C/xampp/htdocs/naposao/database/migrations/2017_11_07_142257_create_work_history_table.php",
+		"/C/xampp/htdocs/naposao/public/js/custom.js",
+		"/C/xampp/htdocs/naposao/database/migrations/2017_09_26_085704_create_users_table.php",
+		"/C/xampp/htdocs/naposao/database/migrations/2017_09_26_085704_create_history_table.php",
+		"/C/xampp/htdocs/naposao/.env",
+		"/C/xampp/htdocs/naposao/resources/views/layouts/header.blade.php",
+		"/C/xampp/htdocs/naposao/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php",
+		"/C/xampp/htdocs/naposao/database/migrations/2017_09_26_085704_create_ads_table.php",
+		"/C/xampp/htdocs/naposao/resources/views/company/new-job-add.blade.php",
+		"/C/xampp/htdocs/naposao/database/migrations/2017_10_27_092712_ad_language.php",
+		"/C/xampp/htdocs/naposao/database/migrations/2017_10_27_101308_languages.php",
+		"/C/xampp/htdocs/naposao/database/migrations/2017_10_20_132315_create_message_table.php",
+		"/C/xampp/htdocs/naposao/database/migrations/2017_09_26_085704_create_ad_categories_table.php",
+		"/C/xampp/htdocs/naposao/database/migrations/2017_10_03_115052_create_bussiness_card_table.php",
+		"/C/xampp/htdocs/naposao/database/migrations/2017_09_26_085704_create_applications_table.php",
+		"/C/xampp/htdocs/naposao/app/Message.php",
+		"/C/xampp/htdocs/naposao/database/migrations/2017_09_26_085704_create_images_table.php",
+		"/C/xampp/htdocs/naposao/database/migrations/2017_10_20_132315_message.php",
+		"/C/xampp/htdocs/naposao/resources/views/404.blade.php",
+		"/C/xampp/htdocs/naposao/resources/views/user/conversation.blade.php",
+		"/C/xampp/htdocs/naposao/resources/views/ad/application.blade.php",
+		"/C/xampp/htdocs/naposao/app/Http/Conversation.php",
+		"/C/xampp/htdocs/naposao/vendor/phar-io/manifest/src/values/Type.php",
+		"/C/xampp/htdocs/naposao/database/migrations/2017_09_26_085704_create_companies_table.php",
+		"/C/xampp/htdocs/naposao/config/auth.php",
+		"/C/xampp/htdocs/naposao/resources/views/company/login.blade.php",
+		"/C/xampp/htdocs/naposao/resources/views/user/login.blade.php",
+		"/C/xampp/htdocs/naposao/app/Exceptions/Handler.php",
+		"/C/xampp/htdocs/naposao/vendor/laravel/framework/src/Illuminate/Auth/Authenticatable.php",
+		"/C/xampp/htdocs/naposao/app/Providers/RouteServiceProvider.php",
+		"/C/xampp/htdocs/naposao/database/migrations/2017_10_03_115052_bussiness_card.php",
+		"/C/xampp/htdocs/naposao/app/BusinessCard.php",
+		"/C/xampp/htdocs/naposao/composer.json",
+		"/C/xampp/htdocs/naposao/composer.lock",
+		"/C/xampp/htdocs/naposao/config/database.php",
+		"/C/xampp/apache/conf/extra/httpd-vhosts.conf",
+		"/C/xampp/htdocs/naposao/resources/views/company/step-3.blade.php",
+		"/C/xampp/htdocs/naposao/app/Image.php",
+		"/C/xampp/htdocs/naposao/public/js/app.js",
+		"/C/xampp/htdocs/naposao/resources/views/company/step-2.blade.php",
+		"/C/xampp/htdocs/naposao/resources/views/auth/login.blade.php",
+		"/C/xampp/htdocs/naposao/app/Http/Controllers/Auth/RegisterController.php",
+		"/C/xampp/htdocs/naposao/app/Http/Controllers/Auth/LoginController.php",
+		"/C/xampp/htdocs/naposao/config/session.php",
+		"/C/xampp/htdocs/naposao/resources/views/auth/step-3.blade.php",
+		"/C/xampp/htdocs/naposao/resources/views/registerCompanies.blade.php",
+		"/C/xampp/htdocs/naposao/resources/views/login.blade.php",
+		"/C/xampp/htdocs/naposao/routes/web.php",
+		"/C/xampp/htdocs/naposao/resources/views/layouts/app.blade.php",
+		"/C/xampp/htdocs/naposao/app/Favorite.php",
+		"/C/xampp/htdocs/naposao/app/Cv.php",
+		"/C/Users/hp/Desktop/index.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			">",
+			"conversation",
+			"Favorite",
+			"file",
+			"data_input",
+			"image",
+			"Image",
+			"image",
+			"photoName",
+			"postJobApplication",
+			"postUserMessage",
+			"uid",
+			"Skills",
+			"nLogin",
+			"service",
+			"<div class=\"pagination\">\n\t\t\t<ul class=\"cf\">\n\t\t\t\t<li class=\"pagination_fast_page\">\n\t\t\t\t\t<a href=\"\"><i class=\"fa fa-angle-double-left\" aria-hidden=\"true\"></i></a>\n\t\t\t\t</li>\n\t\t\t\t<li class=\"pagination_fast_page\">\n\t\t\t\t\t<a href=\"\"><i class=\"fa fa-angle-left\" aria-hidden=\"true\" style=\"margin-right: 10px;\"></i>Previus</a>\n\t\t\t\t</li>\n\t\t\t\t<li class=\"pagination_page\">\n\t\t\t\t\t<a href=\"\">1</a>\n\t\t\t\t</li>\n\t\t\t\t<li class=\"pagination_page\">\n\t\t\t\t\t<a href=\"\">2</a>\n\t\t\t\t</li>\n\t\t\t\t<li class=\"pagination_page\">\n\t\t\t\t\t<a href=\"\">3</a>\n\t\t\t\t</li>\n\t\t\t\t<li class=\"pagination_fast_page\">\n\t\t\t\t\t<a href=\"\">Next<i class=\"fa fa-angle-right\" aria-hidden=\"true\" style=\"margin-left: 10px;\"></i></a>\n\t\t\t\t</li>\n\t\t\t\t<li class=\"pagination_fast_page\">\n\t\t\t\t\t<a href=\"\"><i class=\"fa fa-angle-double-right\" aria-hidden=\"true\"></i></a>\n\t\t\t\t</li>\n\t\t\t</ul>\n\t\t</div>",
+			"getFavorites",
+			"<div class=\"pagination\">\n\t\t\t<ul class=\"cf\">\n\t\t\t\t<li class=\"pagination_fast_page\">\n\t\t\t\t\t<a href=\"\"><i class=\"fa fa-angle-double-left\" aria-hidden=\"true\"></i></a>\n\t\t\t\t</li>\n\t\t\t\t<li class=\"pagination_fast_page\">\n\t\t\t\t\t<a href=\"\"><i class=\"fa fa-angle-left\" aria-hidden=\"true\" style=\"margin-right: 10px;\"></i>Previus</a>\n\t\t\t\t</li>\n\t\t\t\t<li class=\"pagination_page\">\n\t\t\t\t\t<a href=\"\">1</a>\n\t\t\t\t</li>   \n\t\t\t\t<li class=\"pagination_page\">\n\t\t\t\t\t<a href=\"\">2</a>\n\t\t\t\t</li>\n\t\t\t\t<li class=\"pagination_page\">\n\t\t\t\t\t<a href=\"\">3</a>\n\t\t\t\t</li>\n\t\t\t\t<li class=\"pagination_fast_page\">\n\t\t\t\t\t<a href=\"\">Next<i class=\"fa fa-angle-right\" aria-hidden=\"true\" style=\"margin-left: 10px;\"></i></a>\n\t\t\t\t</li>\n\t\t\t\t<li class=\"pagination_fast_page\">\n\t\t\t\t\t<a href=\"\"><i class=\"fa fa-angle-double-right\" aria-hidden=\"true\"></i></a>\n\t\t\t\t</li>\n\t\t\t</ul>\n\t\t</div>",
+			"<div class=\"pagination\">\n\t\t\t<ul class=\"cf\">\n\t\t\t\t<li class=\"pagination_fast_page\">\n\t\t\t\t\t<a href=\"\"><i class=\"fa fa-angle-double-left\" aria-hidden=\"true\"></i></a>\n\t\t\t\t</li>\n\t\t\t\t<li class=\"pagination_fast_page\">\n\t\t\t\t\t<a href=\"\"><i class=\"fa fa-angle-left\" aria-hidden=\"true\" style=\"margin-right: 10px;\"></i>Previus</a>\n\t\t\t\t</li>\n\t\t\t\t<li class=\"pagination_page\">\n\t\t\t\t\t<a href=\"\">1</a>\n\t\t\t\t</li>\n\t\t\t\t<li class=\"pagination_page\">\n\t\t\t\t\t<a href=\"\">2</a>\n\t\t\t\t</li>\n\t\t\t\t<li class=\"pagination_page\">\n\t\t\t\t\t<a href=\"\">3</a>\n\t\t\t\t</li>\n\t\t\t\t<li class=\"pagination_fast_page\">\n\t\t\t\t\t<a href=\"\">Next<i class=\"fa fa-angle-right\" aria-hidden=\"true\" style=\"margin-left: 10px;\"></i></a>\n\t\t\t\t</li>\n\t\t\t\t<li class=\"pagination_fast_page\">\n\t\t\t\t\t<a href=\"\"><i class=\"fa fa-angle-double-right\" aria-hidden=\"true\"></i></a>\n\t\t\t\t</li>\n\t\t\t</ul>\n\t\t</div>",
+			"\t\t<div class=\"pagination\">\n\t\t\t<ul class=\"cf\">\n\t\t\t\t<li class=\"pagination_fast_page\">\n\t\t\t\t\t<a href=\"\"><i class=\"fa fa-angle-double-left\" aria-hidden=\"true\"></i></a>\n\t\t\t\t</li>\n\t\t\t\t<li class=\"pagination_fast_page\">\n\t\t\t\t\t<a href=\"\"><i class=\"fa fa-angle-left\" aria-hidden=\"true\" style=\"margin-right: 10px;\"></i>Previus</a>\n\t\t\t\t</li>\n\t\t\t\t<li class=\"pagination_page\">\n\t\t\t\t\t<a href=\"\">1</a>\n\t\t\t\t</li>\n\t\t\t\t<li class=\"pagination_page\">\n\t\t\t\t\t<a href=\"\">2</a>\n\t\t\t\t</li>\n\t\t\t\t<li class=\"pagination_page\">\n\t\t\t\t\t<a href=\"\">3</a>\n\t\t\t\t</li>\n\t\t\t\t<li class=\"pagination_fast_page\">\n\t\t\t\t\t<a href=\"\">Next<i class=\"fa fa-angle-right\" aria-hidden=\"true\" style=\"margin-left: 10px;\"></i></a>\n\t\t\t\t</li>\n\t\t\t\t<li class=\"pagination_fast_page\">\n\t\t\t\t\t<a href=\"\"><i class=\"fa fa-angle-double-right\" aria-hidden=\"true\"></i></a>\n\t\t\t\t</li>\n\t\t\t</ul>\n\t\t</div>",
+			"update",
+			"/profile",
+			"JobController",
+			"Login",
+			"getAdminLogin",
+			"Ad",
+			"1",
+			"login",
+			"getCompanyLogin",
+			"URL::to('/')",
+			"/favorites",
+			"favo",
+			"errors",
+			"register",
+			"My",
+			"getAllJobs",
+			"getJupdateCoverobs",
+			"Ad::where",
+			"($reque",
+			"($request)",
+			"foreac",
+			"search",
+			"d[0]",
+			"['ads']",
+			"getSearchResults",
+			"edit",
+			"applications",
+			"controlpane",
+			"application",
+			"company",
+			"Session::get('user')",
+			"edit_link",
+			"<a class=\"edit_link\" id=\"avatar\">\t\n\t\t\t\t\t\t\t<i class=\"fa fa-pencil\" aria-hidden=\"true\"></i>\n\t\t\t\t\t\t</a>",
+			"edit_link",
+			"getUserProfile",
+			"year_to",
+			"position",
+			"new",
+			"50",
+			"$ad",
+			"$ad->career_level",
+			"career_level",
+			"/p>",
+			"<p",
+			"p",
+			"li>",
+			"[0]",
+			"p",
+			"favor",
+			"getJobApplication",
+			"$ad",
+			"English",
+			"Message",
+			", 50",
+			"$category",
+			"category",
+			"Ad",
+			"label",
+			"count",
+			"Company",
+			"Message",
+			"getMessages",
+			"name1",
+			"id=\"name",
+			"name1",
+			"register_type",
+			"id=\"name",
+			" id=\"name8\"",
+			"name7",
+			"name",
+			"name5",
+			"name4",
+			"search",
+			"Application",
+			"irst",
+			"company_name",
+			"User",
+			"text",
+			"->unsigned()",
+			"message",
+			"Conversation",
+			"conversation",
+			"[0]",
+			"conversation",
+			"Conversation",
+			"conversation",
+			"$conversation",
+			"conversation",
+			"Company",
+			"application",
+			"Application",
+			"User",
+			"BusinessCard",
+			"Company",
+			"route(",
+			"naposaologo",
+			"images/employers/test-employer.jpg",
+			"Company",
+			"]",
+			"[",
+			"Model",
+			"authenti",
+			"a",
+			"about_us",
+			"auth",
+			"button",
+			"about",
+			"postUserLogin"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "header.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4077,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1395,
+								1395
+							]
+						],
+						"settings":
+						{
+							"history_list_is_closing": true,
+							"syntax": "Packages/Laravel Blade Highlighter/blade.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 324.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/xampp/htdocs/naposao/.env",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 559,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								171,
+								171
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/xampp/htdocs/naposao/resources/views/company/applications.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1097,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								436,
+								436
+							]
+						],
+						"settings":
+						{
+							"history_list_is_closing": true,
+							"syntax": "Packages/Laravel Blade Highlighter/blade.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/xampp/htdocs/naposao/resources/views/user/conversation.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3185,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1405,
+								1463
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Laravel Blade Highlighter/blade.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 108.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/xampp/htdocs/naposao/resources/views/ad/application.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1058,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								204,
+								204
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Laravel Blade Highlighter/blade.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/xampp/htdocs/naposao/resources/views/company/step-2.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1282,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								302,
+								302
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Laravel Blade Highlighter/blade.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/C/xampp/htdocs/naposao/resources/views/ad/conversation.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3149,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1345,
+								1345
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Laravel Blade Highlighter/blade.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/C/xampp/htdocs/naposao/resources/views/ad/allAds.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4367,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2933,
+								4340
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Laravel Blade Highlighter/blade.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1728.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/C/xampp/htdocs/naposao/app/File.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 180,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								177,
+								177
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/C/xampp/htdocs/naposao/app/Message.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 479,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								305,
+								305
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 10,
+					"file": "/C/xampp/htdocs/naposao/routes/web.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8076,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1907,
+								1907
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 599.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "/C/xampp/htdocs/naposao/app/Http/Controllers/UserController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9091,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7062,
+								7062
+							]
+						],
+						"settings":
+						{
+							"history_list_is_closing": true,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3992.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "/C/xampp/htdocs/naposao/app/Http/Controllers/JobController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5731,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								416,
+								416
+							]
+						],
+						"settings":
+						{
+							"history_list_is_closing": true,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "/C/xampp/htdocs/naposao/app/Http/Controllers/HomeController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 740,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								241,
+								241
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "/C/xampp/htdocs/naposao/app/Http/Controllers/AdminController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1859,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1096,
+								1096
+							]
+						],
+						"settings":
+						{
+							"history_list_is_closing": true,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 216.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "/C/xampp/htdocs/naposao/app/Http/Controllers/CompanyController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8273,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3419,
+								3419
+							]
+						],
+						"settings":
+						{
+							"history_list_is_closing": true,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "/C/xampp/htdocs/naposao/resources/views/ad/ad.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5401,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								149,
+								149
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Laravel Blade Highlighter/blade.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "/C/xampp/htdocs/naposao/app/User.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1001,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								348,
+								348
+							]
+						],
+						"settings":
+						{
+							"history_list_is_closing": true,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 17,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.51835200784,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "naposao.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"appl",
+				"resources\\views\\company\\applications.blade.php"
+			],
+			[
+				"services.php",
+				"config\\services.php"
+			],
+			[
+				"header",
+				"resources\\views\\layouts\\header.blade.php"
+			],
+			[
+				"user",
+				"app\\User.php"
+			],
+			[
+				"step-2",
+				"resources\\views\\company\\step-2.blade.php"
+			],
+			[
+				"all",
+				"resources\\views\\ad\\allAds.blade.php"
+			],
+			[
+				"usercontroller",
+				"app\\Http\\Controllers\\UserController.php"
+			],
+			[
+				"searchre",
+				"resources\\views\\ad\\searchResults.blade.php"
+			],
+			[
+				"homecontroller",
+				"app\\Http\\Controllers\\HomeController.php"
+			],
+			[
+				"ad.",
+				"app\\Ad.php"
+			],
+			[
+				"app.php",
+				"config\\app.php"
+			],
+			[
+				"appser",
+				"app\\Providers\\AppServiceProvider.php"
+			],
+			[
+				"adminpanel",
+				"resources\\views\\admin\\panel.blade.php"
+			],
+			[
+				"companyregis",
+				"resources\\views\\company\\register.blade.php"
+			],
+			[
+				"profile",
+				"resources\\views\\company\\profile.blade.php"
+			],
+			[
+				"newjobcu",
+				"resources\\views\\company\\new-job-custom.blade.php"
+			],
+			[
+				"newjob",
+				"resources\\views\\company\\new-job-standard.blade.php"
+			],
+			[
+				"ad.b",
+				"resources\\views\\ad\\ad.blade.php"
+			],
+			[
+				"usercontr",
+				"app\\Http\\Controllers\\UserController.php"
+			],
+			[
+				"favorites",
+				"resources\\views\\user\\favorites.blade.php"
+			],
+			[
+				"profile.",
+				"resources\\views\\company\\profile.blade.php"
+			],
+			[
+				"searchresults",
+				"resources\\views\\ad\\searchResults.blade.php"
+			],
+			[
+				"usercon",
+				"app\\Http\\Controllers\\UserController.php"
+			],
+			[
+				"home.",
+				"resources\\views\\home.blade.php"
+			],
+			[
+				"home",
+				"resources\\views\\home.blade.php"
+			],
+			[
+				"companyc",
+				"app\\Http\\Controllers\\CompanyController.php"
+			],
+			[
+				"panel",
+				"resources\\views\\company\\panel.blade.php"
+			],
+			[
+				"header.",
+				"resources\\views\\layouts\\header.blade.php"
+			],
+			[
+				"conversation",
+				"resources\\views\\ad\\conversation.blade.php"
+			],
+			[
+				"jobcon",
+				"app\\Http\\Controllers\\JobController.php"
+			],
+			[
+				"ad",
+				"app\\Ad.php"
+			],
+			[
+				"cust",
+				"public\\js\\custom.js"
+			],
+			[
+				"favo",
+				"resources\\views\\user\\favorites.blade.php"
+			],
+			[
+				"style.",
+				"public\\css\\style.css"
+			],
+			[
+				"ad.blade",
+				"resources\\views\\ad\\ad.blade.php"
+			],
+			[
+				"web.php",
+				"routes\\web.php"
+			],
+			[
+				"ad.blade.php",
+				"resources\\views\\ad\\ad.blade.php"
+			],
+			[
+				"homecontro",
+				"app\\Http\\Controllers\\HomeController.php"
+			],
+			[
+				"home.blade",
+				"resources\\views\\home.blade.php"
+			],
+			[
+				".env",
+				".env"
+			],
+			[
+				"jobcontr",
+				"app\\Http\\Controllers\\JobController.php"
+			],
+			[
+				"allads",
+				"resources\\views\\ad\\allAds.blade.php"
+			],
+			[
+				"jobco",
+				"app\\Http\\Controllers\\JobController.php"
+			],
+			[
+				"hea",
+				"resources\\views\\layouts\\header.blade.php"
+			],
+			[
+				"handler.",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Exceptions\\Handler.php"
+			],
+			[
+				"compan",
+				"app\\Http\\Controllers\\CompanyController.php"
+			],
+			[
+				"conversa",
+				"resources\\views\\ad\\conversation.blade.php"
+			],
+			[
+				"usercontro",
+				"app\\Http\\Controllers\\UserController.php"
+			],
+			[
+				"application.php",
+				"app\\Application.php"
+			],
+			[
+				"user.",
+				"app\\User.php"
+			],
+			[
+				"ad.bld",
+				"resources\\views\\ad\\ad.blade.php"
+			],
+			[
+				"message",
+				"database\\migrations\\2017_10_20_132315_message.php"
+			],
+			[
+				"application",
+				"app\\Application.php"
+			],
+			[
+				"applica",
+				"app\\Application.php"
+			],
+			[
+				"homecon",
+				"app\\Http\\Controllers\\HomeController.php"
+			],
+			[
+				"company",
+				"app\\Company.php"
+			],
+			[
+				"pane",
+				"resources\\views\\company\\panel.blade.php"
+			],
+			[
+				"conver",
+				"resources\\views\\ad\\conversation.blade.php"
+			],
+			[
+				"customjs",
+				"public\\js\\custom.js"
+			],
+			[
+				"custom",
+				"public\\js\\custom.js"
+			],
+			[
+				"",
+				"resources\\views\\company\\panel.blade.php"
+			],
+			[
+				"handelr",
+				"app\\Exceptions\\Handler.php"
+			],
+			[
+				"authe",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Auth\\Authenticatable.php"
+			],
+			[
+				"auth",
+				"config\\auth.php"
+			],
+			[
+				"companycontr",
+				"app\\Http\\Controllers\\CompanyController.php"
+			],
+			[
+				"routeserviceprovider",
+				"app\\Providers\\RouteServiceProvider.php"
+			],
+			[
+				"companylogin",
+				"resources\\views\\company\\login.blade.php"
+			],
+			[
+				"companyregister",
+				"resources\\views\\company\\register.blade.php"
+			],
+			[
+				"job",
+				"app\\Http\\Controllers\\JobController.php"
+			],
+			[
+				"register",
+				"resources\\views\\user\\register.blade.php"
+			],
+			[
+				"usercontrol",
+				"app\\Http\\Controllers\\UserController.php"
+			],
+			[
+				"migrationsads",
+				"database\\migrations\\2017_09_26_085704_create_ads_table.php"
+			],
+			[
+				"businesscar",
+				"database\\migrations\\2017_10_03_115052_bussiness_card.php"
+			],
+			[
+				"busines",
+				"app\\BusinessCard.php"
+			],
+			[
+				"companyprofi",
+				"resources\\views\\company\\profile.blade.php"
+			],
+			[
+				"userc",
+				"app\\Http\\Controllers\\UserController.php"
+			],
+			[
+				"app",
+				"config\\app.php"
+			],
+			[
+				"composer",
+				"composer.lock"
+			],
+			[
+				"login",
+				"resources\\views\\user\\login.blade.php"
+			],
+			[
+				"company.php",
+				"app\\Company.php"
+			],
+			[
+				"database",
+				"config\\database.php"
+			],
+			[
+				"companyreg",
+				"resources\\views\\company\\register.blade.php"
+			],
+			[
+				"companyregi",
+				"resources\\views\\company\\register.blade.php"
+			],
+			[
+				"step",
+				"resources\\views\\company\\step-3.blade.php"
+			],
+			[
+				"custom.js",
+				"public\\js\\custom.js"
+			],
+			[
+				"ad.php",
+				"app\\Ad.php"
+			],
+			[
+				"companycon",
+				"app\\Http\\Controllers\\CompanyController.php"
+			],
+			[
+				"image",
+				"app\\Image.php"
+			],
+			[
+				"step2",
+				"resources\\views\\company\\step-2.blade.php"
+			],
+			[
+				"auth.php",
+				"config\\auth.php"
+			],
+			[
+				"buisnessca",
+				"app\\BuisnessCard.php"
+			],
+			[
+				"buisness",
+				"database\\migrations\\2017_10_03_115052_bussiness_card.php"
+			],
+			[
+				"master.blade",
+				"resources\\views\\layouts\\master.blade.php"
+			],
+			[
+				"styl",
+				"public\\css\\style.css"
+			],
+			[
+				"master",
+				"resources\\views\\layouts\\master.blade.php"
+			],
+			[
+				"style.css",
+				"public\\css\\style.css"
+			],
+			[
+				"step-3",
+				"resources\\views\\auth\\step-3.blade.php"
+			],
+			[
+				"session",
+				"config\\session.php"
+			],
+			[
+				"compos",
+				"composer.json"
+			],
+			[
+				"appservicepro",
+				"app\\Providers\\AppServiceProvider.php"
+			],
+			[
+				"app.blade.php",
+				"resources\\views\\layouts\\app.blade.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 347.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

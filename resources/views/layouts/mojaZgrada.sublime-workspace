@@ -1,0 +1,1191 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"compan",
+				"company_website"
+			],
+			[
+				"applica",
+				"applications"
+			],
+			[
+				"year",
+				"year_from"
+			],
+			[
+				"to",
+				"toJson"
+			],
+			[
+				"cate",
+				"categories"
+			],
+			[
+				"compa",
+				"company_name"
+			],
+			[
+				"con",
+				"conversation"
+			],
+			[
+				"co",
+				"conversation"
+			],
+			[
+				"about",
+				"about_us"
+			],
+			[
+				"a",
+				"about_us"
+			],
+			[
+				"strc",
+				"strcmp"
+			],
+			[
+				"remin",
+				"RemindableInterface"
+			],
+			[
+				"User",
+				"UserInterface"
+			],
+			[
+				"out_",
+				"office_out_country"
+			],
+			[
+				"photo",
+				"photoName"
+			],
+			[
+				"for",
+				"foreign"
+			],
+			[
+				"face",
+				"facebook_details"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/xampp/htdocs/mojaZgrada/config/database.php",
+			"settings":
+			{
+				"buffer_size": 3951,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/mojaZgrada/.env",
+			"settings":
+			{
+				"buffer_size": 562,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/mojaZgrada/database/migrations/2017_11_20_105203_create_admins_table.php",
+			"settings":
+			{
+				"buffer_size": 623,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/mojaZgrada/database/migrations/2017_11_20_105203_create_buildings_table.php",
+			"settings":
+			{
+				"buffer_size": 515,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/mojaZgrada/database/migrations/2017_11_20_105203_create_users_table.php",
+			"settings":
+			{
+				"buffer_size": 780,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/mojaZgrada/routes/web.php",
+			"settings":
+			{
+				"buffer_size": 2324,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/mojaZgrada/app/Building.php",
+			"settings":
+			{
+				"buffer_size": 252,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/mojaZgrada/app/Admin.php",
+			"settings":
+			{
+				"buffer_size": 936,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/mojaZgrada/app/User.php",
+			"settings":
+			{
+				"buffer_size": 764,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 150.0,
+		"last_filter": "project",
+		"selected_items":
+		[
+			[
+				"project",
+				"Project: Edit Project"
+			],
+			[
+				"packageinsta",
+				"Package Control: Install Package"
+			],
+			[
+				"package control all",
+				"Package Control: Install Package"
+			],
+			[
+				"package contro",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Add Channel"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/mojaZgrada",
+		"/C/xampp/htdocs/mojaZgrada/app",
+		"/C/xampp/htdocs/mojaZgrada/database",
+		"/C/xampp/htdocs/mojaZgrada/database/migrations"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/naposao/resources/views/layouts/mojaZgrada.sublime-project",
+		"/C/xampp/htdocs/naposao/app/Ad.php",
+		"/C/xampp/htdocs/naposao/resources/views/company/register.blade.php",
+		"/C/xampp/htdocs/naposao/resources/views/company/edit.blade.php",
+		"/C/xampp/htdocs/naposao/resources/views/ad/searchResults.blade.php",
+		"/C/xampp/htdocs/naposao/resources/views/user/favorites.blade.php",
+		"/C/xampp/htdocs/naposao/resources/views/home.blade.php",
+		"/C/xampp/htdocs/naposao/resources/views/ad/ad.blade.php",
+		"/C/xampp/htdocs/naposao/resources/views/company/new-job-standard.blade.php",
+		"/C/xampp/htdocs/naposao/resources/views/user/user_profile.blade.php",
+		"/C/xampp/htdocs/naposao/resources/views/user/messages.blade.php",
+		"/C/xampp/htdocs/naposao/resources/views/user/history.blade.php",
+		"/C/xampp/htdocs/naposao/resources/views/ad/allAds.blade.php",
+		"/C/xampp/htdocs/naposao/resources/views/company/profile.blade.php",
+		"/C/xampp/htdocs/naposao/app/Http/Controllers/UserController.php",
+		"/C/xampp/htdocs/naposao/resources/views/company/applications.blade.php",
+		"/C/xampp/htdocs/naposao/resources/views/user/users.blade.php",
+		"/C/xampp/htdocs/naposao/resources/views/user/profile.blade.php",
+		"/C/xampp/htdocs/naposao/app/Category.php",
+		"/C/xampp/htdocs/naposao/app/Application.php",
+		"/C/xampp/htdocs/naposao/app/Http/Controllers/CompanyController.php",
+		"/C/xampp/htdocs/naposao/app/Language.php",
+		"/C/xampp/htdocs/naposao/app/Http/Controllers/HomeController.php",
+		"/C/xampp/htdocs/naposao/app/WorkHistory.php",
+		"/C/xampp/htdocs/naposao/app/Http/Controllers/JobController.php",
+		"/C/xampp/htdocs/naposao/app/Company.php",
+		"/C/xampp/htdocs/naposao/public/css/style.css",
+		"/C/xampp/htdocs/naposao/app/User.php",
+		"/C/xampp/htdocs/naposao/resources/views/user/register.blade.php",
+		"/C/xampp/htdocs/naposao/resources/views/ad/conversation.blade.php",
+		"/C/xampp/htdocs/naposao/database/migrations/2017_11_07_142257_create_work_history_table.php",
+		"/C/xampp/htdocs/naposao/public/js/custom.js",
+		"/C/xampp/htdocs/naposao/database/migrations/2017_09_26_085704_create_users_table.php",
+		"/C/xampp/htdocs/naposao/database/migrations/2017_09_26_085704_create_history_table.php",
+		"/C/xampp/htdocs/naposao/.env",
+		"/C/xampp/htdocs/naposao/resources/views/layouts/header.blade.php",
+		"/C/xampp/htdocs/naposao/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php",
+		"/C/xampp/htdocs/naposao/database/migrations/2017_09_26_085704_create_ads_table.php",
+		"/C/xampp/htdocs/naposao/resources/views/company/new-job-add.blade.php",
+		"/C/xampp/htdocs/naposao/database/migrations/2017_10_27_092712_ad_language.php",
+		"/C/xampp/htdocs/naposao/database/migrations/2017_10_27_101308_languages.php",
+		"/C/xampp/htdocs/naposao/database/migrations/2017_10_20_132315_create_message_table.php",
+		"/C/xampp/htdocs/naposao/database/migrations/2017_09_26_085704_create_ad_categories_table.php",
+		"/C/xampp/htdocs/naposao/database/migrations/2017_10_03_115052_create_bussiness_card_table.php",
+		"/C/xampp/htdocs/naposao/database/migrations/2017_09_26_085704_create_applications_table.php",
+		"/C/xampp/htdocs/naposao/app/Message.php",
+		"/C/xampp/htdocs/naposao/database/migrations/2017_09_26_085704_create_images_table.php",
+		"/C/xampp/htdocs/naposao/database/migrations/2017_10_20_132315_message.php",
+		"/C/xampp/htdocs/naposao/resources/views/404.blade.php",
+		"/C/xampp/htdocs/naposao/resources/views/user/conversation.blade.php",
+		"/C/xampp/htdocs/naposao/resources/views/company/panel.blade.php",
+		"/C/xampp/htdocs/naposao/resources/views/ad/application.blade.php",
+		"/C/xampp/htdocs/naposao/app/Http/Conversation.php",
+		"/C/xampp/htdocs/naposao/vendor/phar-io/manifest/src/values/Type.php",
+		"/C/xampp/htdocs/naposao/database/migrations/2017_09_26_085704_create_companies_table.php",
+		"/C/xampp/htdocs/naposao/config/auth.php",
+		"/C/xampp/htdocs/naposao/resources/views/company/login.blade.php",
+		"/C/xampp/htdocs/naposao/resources/views/user/login.blade.php",
+		"/C/xampp/htdocs/naposao/app/Exceptions/Handler.php",
+		"/C/xampp/htdocs/naposao/resources/views/layouts/master.blade.php",
+		"/C/xampp/htdocs/naposao/vendor/laravel/framework/src/Illuminate/Auth/Authenticatable.php",
+		"/C/xampp/htdocs/naposao/app/Providers/RouteServiceProvider.php",
+		"/C/xampp/htdocs/naposao/database/migrations/2017_10_03_115052_bussiness_card.php",
+		"/C/xampp/htdocs/naposao/app/BusinessCard.php",
+		"/C/xampp/htdocs/naposao/config/app.php",
+		"/C/xampp/htdocs/naposao/composer.json",
+		"/C/xampp/htdocs/naposao/composer.lock",
+		"/C/xampp/htdocs/naposao/config/database.php",
+		"/C/xampp/apache/conf/extra/httpd-vhosts.conf",
+		"/C/xampp/htdocs/naposao/resources/views/company/step-3.blade.php",
+		"/C/xampp/htdocs/naposao/app/Image.php",
+		"/C/xampp/htdocs/naposao/public/js/app.js",
+		"/C/xampp/htdocs/naposao/resources/views/company/step-2.blade.php",
+		"/C/xampp/htdocs/naposao/resources/views/auth/login.blade.php",
+		"/C/xampp/htdocs/naposao/app/Http/Controllers/Auth/RegisterController.php",
+		"/C/xampp/htdocs/naposao/app/Http/Controllers/Auth/LoginController.php",
+		"/C/xampp/htdocs/naposao/config/session.php",
+		"/C/xampp/htdocs/naposao/resources/views/auth/step-3.blade.php",
+		"/C/xampp/htdocs/naposao/resources/views/registerCompanies.blade.php",
+		"/C/xampp/htdocs/naposao/resources/views/login.blade.php",
+		"/C/xampp/htdocs/naposao/app/Providers/AppServiceProvider.php",
+		"/C/xampp/htdocs/naposao/routes/web.php",
+		"/C/xampp/htdocs/naposao/resources/views/layouts/app.blade.php",
+		"/C/xampp/htdocs/naposao/app/Favorite.php",
+		"/C/xampp/htdocs/naposao/app/Cv.php",
+		"/C/Users/hp/Desktop/index.html"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"update",
+			"/profile",
+			"JobController",
+			"Login",
+			"getAdminLogin",
+			"Ad",
+			"1",
+			"login",
+			"getCompanyLogin",
+			"URL::to('/')",
+			"/favorites",
+			"favo",
+			"errors",
+			"register",
+			"My",
+			"getAllJobs",
+			"getJupdateCoverobs",
+			"Ad::where",
+			"($reque",
+			"($request)",
+			"foreac",
+			"search",
+			"d[0]",
+			"['ads']",
+			"getSearchResults",
+			"edit",
+			"applications",
+			"controlpane",
+			"application",
+			"company",
+			"Session::get('user')",
+			"edit_link",
+			"<a class=\"edit_link\" id=\"avatar\">\t\n\t\t\t\t\t\t\t<i class=\"fa fa-pencil\" aria-hidden=\"true\"></i>\n\t\t\t\t\t\t</a>",
+			"edit_link",
+			"getUserProfile",
+			"year_to",
+			"position",
+			"new",
+			"50",
+			"$ad",
+			"$ad->career_level",
+			"career_level",
+			"/p>",
+			"<p",
+			"p",
+			"li>",
+			"[0]",
+			"p",
+			"favor",
+			"getJobApplication",
+			"$ad",
+			"English",
+			"Message",
+			", 50",
+			"$category",
+			"category",
+			"Ad",
+			"label",
+			"count",
+			"Company",
+			"Message",
+			"getMessages",
+			"name1",
+			"id=\"name",
+			"name1",
+			"register_type",
+			"id=\"name",
+			" id=\"name8\"",
+			"name7",
+			"name",
+			"name5",
+			"name4",
+			"search",
+			"Application",
+			"irst",
+			"company_name",
+			"User",
+			"text",
+			"->unsigned()",
+			"message",
+			"Conversation",
+			"conversation",
+			"[0]",
+			"conversation",
+			"Conversation",
+			"conversation",
+			"$conversation",
+			"conversation",
+			"Company",
+			"application",
+			"Application",
+			"User",
+			"BusinessCard",
+			"Company",
+			"route(",
+			"naposaologo",
+			"images/employers/test-employer.jpg",
+			"Company",
+			"]",
+			"[",
+			"Model",
+			"authenti",
+			"a",
+			"about_us",
+			"auth",
+			"button",
+			"about",
+			"postUserLogin",
+			"username",
+			"id=\"\"",
+			"get",
+			"                        <",
+			"(",
+			"Company",
+			"company",
+			"Company",
+			"company",
+			"id=\"\"",
+			"form",
+			"button",
+			"p",
+			"login",
+			"input",
+			"id=\"\"",
+			"add_options",
+			"career_level",
+			"company_",
+			"input"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/xampp/htdocs/mojaZgrada/config/database.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3951,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1169,
+								1169
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 378.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/xampp/htdocs/mojaZgrada/.env",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 562,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								256,
+								256
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/xampp/htdocs/mojaZgrada/database/migrations/2017_11_20_105203_create_admins_table.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 623,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								114,
+								114
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/xampp/htdocs/mojaZgrada/database/migrations/2017_11_20_105203_create_buildings_table.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 515,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								332,
+								332
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/xampp/htdocs/mojaZgrada/database/migrations/2017_11_20_105203_create_users_table.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 780,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								338,
+								338
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/xampp/htdocs/mojaZgrada/routes/web.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2324,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								531,
+								531
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/C/xampp/htdocs/mojaZgrada/app/Building.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 252,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								202,
+								202
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/C/xampp/htdocs/mojaZgrada/app/Admin.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 936,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								837,
+								837
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/C/xampp/htdocs/mojaZgrada/app/User.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 764,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								234,
+								234
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "mojaZgrada.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"web.php",
+				"routes\\web.php"
+			],
+			[
+				"database",
+				"config\\database.php"
+			],
+			[
+				"header",
+				"resources\\views\\layouts\\header.blade.php"
+			],
+			[
+				"profile",
+				"resources\\views\\company\\profile.blade.php"
+			],
+			[
+				"newjobcu",
+				"resources\\views\\company\\new-job-custom.blade.php"
+			],
+			[
+				"newjob",
+				"resources\\views\\company\\new-job-standard.blade.php"
+			],
+			[
+				"ad.b",
+				"resources\\views\\ad\\ad.blade.php"
+			],
+			[
+				"usercontr",
+				"app\\Http\\Controllers\\UserController.php"
+			],
+			[
+				"favorites",
+				"resources\\views\\user\\favorites.blade.php"
+			],
+			[
+				"profile.",
+				"resources\\views\\company\\profile.blade.php"
+			],
+			[
+				"searchresults",
+				"resources\\views\\ad\\searchResults.blade.php"
+			],
+			[
+				"usercon",
+				"app\\Http\\Controllers\\UserController.php"
+			],
+			[
+				"home.",
+				"resources\\views\\home.blade.php"
+			],
+			[
+				"home",
+				"resources\\views\\home.blade.php"
+			],
+			[
+				"companyc",
+				"app\\Http\\Controllers\\CompanyController.php"
+			],
+			[
+				"panel",
+				"resources\\views\\company\\panel.blade.php"
+			],
+			[
+				"header.",
+				"resources\\views\\layouts\\header.blade.php"
+			],
+			[
+				"user",
+				"app\\User.php"
+			],
+			[
+				"conversation",
+				"resources\\views\\ad\\conversation.blade.php"
+			],
+			[
+				"jobcon",
+				"app\\Http\\Controllers\\JobController.php"
+			],
+			[
+				"ad",
+				"app\\Ad.php"
+			],
+			[
+				"cust",
+				"public\\js\\custom.js"
+			],
+			[
+				"favo",
+				"resources\\views\\user\\favorites.blade.php"
+			],
+			[
+				"style.",
+				"public\\css\\style.css"
+			],
+			[
+				"ad.blade",
+				"resources\\views\\ad\\ad.blade.php"
+			],
+			[
+				"ad.blade.php",
+				"resources\\views\\ad\\ad.blade.php"
+			],
+			[
+				"homecontro",
+				"app\\Http\\Controllers\\HomeController.php"
+			],
+			[
+				"home.blade",
+				"resources\\views\\home.blade.php"
+			],
+			[
+				".env",
+				".env"
+			],
+			[
+				"jobcontr",
+				"app\\Http\\Controllers\\JobController.php"
+			],
+			[
+				"allads",
+				"resources\\views\\ad\\allAds.blade.php"
+			],
+			[
+				"jobco",
+				"app\\Http\\Controllers\\JobController.php"
+			],
+			[
+				"hea",
+				"resources\\views\\layouts\\header.blade.php"
+			],
+			[
+				"handler.",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Foundation\\Exceptions\\Handler.php"
+			],
+			[
+				"compan",
+				"app\\Http\\Controllers\\CompanyController.php"
+			],
+			[
+				"conversa",
+				"resources\\views\\ad\\conversation.blade.php"
+			],
+			[
+				"usercontro",
+				"app\\Http\\Controllers\\UserController.php"
+			],
+			[
+				"application.php",
+				"app\\Application.php"
+			],
+			[
+				"user.",
+				"app\\User.php"
+			],
+			[
+				"ad.bld",
+				"resources\\views\\ad\\ad.blade.php"
+			],
+			[
+				"all",
+				"resources\\views\\ad\\allAds.blade.php"
+			],
+			[
+				"message",
+				"database\\migrations\\2017_10_20_132315_message.php"
+			],
+			[
+				"application",
+				"app\\Application.php"
+			],
+			[
+				"applica",
+				"app\\Application.php"
+			],
+			[
+				"homecon",
+				"app\\Http\\Controllers\\HomeController.php"
+			],
+			[
+				"company",
+				"app\\Company.php"
+			],
+			[
+				"pane",
+				"resources\\views\\company\\panel.blade.php"
+			],
+			[
+				"homecontroller",
+				"app\\Http\\Controllers\\HomeController.php"
+			],
+			[
+				"conver",
+				"resources\\views\\ad\\conversation.blade.php"
+			],
+			[
+				"customjs",
+				"public\\js\\custom.js"
+			],
+			[
+				"custom",
+				"public\\js\\custom.js"
+			],
+			[
+				"ad.",
+				"app\\Ad.php"
+			],
+			[
+				"",
+				"resources\\views\\company\\panel.blade.php"
+			],
+			[
+				"handelr",
+				"app\\Exceptions\\Handler.php"
+			],
+			[
+				"authe",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Auth\\Authenticatable.php"
+			],
+			[
+				"auth",
+				"config\\auth.php"
+			],
+			[
+				"companycontr",
+				"app\\Http\\Controllers\\CompanyController.php"
+			],
+			[
+				"routeserviceprovider",
+				"app\\Providers\\RouteServiceProvider.php"
+			],
+			[
+				"companylogin",
+				"resources\\views\\company\\login.blade.php"
+			],
+			[
+				"companyregister",
+				"resources\\views\\company\\register.blade.php"
+			],
+			[
+				"job",
+				"app\\Http\\Controllers\\JobController.php"
+			],
+			[
+				"register",
+				"resources\\views\\user\\register.blade.php"
+			],
+			[
+				"usercontrol",
+				"app\\Http\\Controllers\\UserController.php"
+			],
+			[
+				"migrationsads",
+				"database\\migrations\\2017_09_26_085704_create_ads_table.php"
+			],
+			[
+				"businesscar",
+				"database\\migrations\\2017_10_03_115052_bussiness_card.php"
+			],
+			[
+				"busines",
+				"app\\BusinessCard.php"
+			],
+			[
+				"companyprofi",
+				"resources\\views\\company\\profile.blade.php"
+			],
+			[
+				"userc",
+				"app\\Http\\Controllers\\UserController.php"
+			],
+			[
+				"app",
+				"config\\app.php"
+			],
+			[
+				"composer",
+				"composer.lock"
+			],
+			[
+				"login",
+				"resources\\views\\user\\login.blade.php"
+			],
+			[
+				"company.php",
+				"app\\Company.php"
+			],
+			[
+				"companyreg",
+				"resources\\views\\company\\register.blade.php"
+			],
+			[
+				"companyregi",
+				"resources\\views\\company\\register.blade.php"
+			],
+			[
+				"step",
+				"resources\\views\\company\\step-3.blade.php"
+			],
+			[
+				"custom.js",
+				"public\\js\\custom.js"
+			],
+			[
+				"ad.php",
+				"app\\Ad.php"
+			],
+			[
+				"companycon",
+				"app\\Http\\Controllers\\CompanyController.php"
+			],
+			[
+				"image",
+				"app\\Image.php"
+			],
+			[
+				"step2",
+				"resources\\views\\company\\step-2.blade.php"
+			],
+			[
+				"auth.php",
+				"config\\auth.php"
+			],
+			[
+				"buisnessca",
+				"app\\BuisnessCard.php"
+			],
+			[
+				"buisness",
+				"database\\migrations\\2017_10_03_115052_bussiness_card.php"
+			],
+			[
+				"app.php",
+				"config\\app.php"
+			],
+			[
+				"master.blade",
+				"resources\\views\\layouts\\master.blade.php"
+			],
+			[
+				"styl",
+				"public\\css\\style.css"
+			],
+			[
+				"master",
+				"resources\\views\\layouts\\master.blade.php"
+			],
+			[
+				"style.css",
+				"public\\css\\style.css"
+			],
+			[
+				"step-3",
+				"resources\\views\\auth\\step-3.blade.php"
+			],
+			[
+				"session",
+				"config\\session.php"
+			],
+			[
+				"compos",
+				"composer.json"
+			],
+			[
+				"appservicepro",
+				"app\\Providers\\AppServiceProvider.php"
+			],
+			[
+				"app.blade.php",
+				"resources\\views\\layouts\\app.blade.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\xampp\\htdocs\\naposao\\resources\\views\\layouts\\naposao.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 347.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
